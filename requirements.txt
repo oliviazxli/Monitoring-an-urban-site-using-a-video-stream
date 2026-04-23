@@ -1,8 +1,10 @@
+# For local development
 # streamlit>=1.32.0
 # ultralytics>=8.1.0
 # opencv-python>=4.9.0
 # numpy>=1.24.0
 
+# For Streamlit Cloud deployment
 streamlit>=1.32.0
 ultralytics>=8.1.0
 opencv-python-headless==4.8.1.78
