@@ -42,8 +42,8 @@ Then open the app in your browser (default: `http://localhost:8501`).
 
 In the sidebar, choose one of two input modes:
 
-- **Local path** *(recommended)*: Paste the full path to a video file on disk. This avoids re-uploading large files and is faster.
-- **Upload file**: Upload an `.mp4`, `.avi`, or `.mov` file directly through the browser.
+- **Local path** : Paste the full path to a video file on disk. This avoids re-uploading large files and is faster.
+- **Upload file** *(recommended in Streamlit app)*: Upload an `.mp4`, `.avi`, or `.mov` file directly through the browser.
 
 ---
 
