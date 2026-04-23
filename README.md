@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-streamlit run version5_0326present.py
+streamlit run main.py
 ```
 
 Then open the app in your browser (default: `http://localhost:8501`).
