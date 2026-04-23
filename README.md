@@ -1,6 +1,6 @@
 # Monitoring-a-urban-site-using-a-video-stream
 
-A real-time video analysis app built with **Streamlit**, **YOLO 26**, and **OpenCV**. It detects and tracks persons and vehicles in video footage, with configurable crowd alerts and ROI (Region of Interest) monitoring.
+A real-time video analysis app built with **Streamlit**, **YOLO 26s**, and **OpenCV**. It detects and tracks persons and vehicles in video footage, with configurable crowd alerts and ROI (Region of Interest) monitoring.
 
 ---
 
